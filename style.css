@@ -1,0 +1,39 @@
+h1 {
+    color:blue
+}
+
+body{
+    background-color:#f58120;
+}
+
+.header{
+background-color: deeppink;
+border:solid;
+
+
+border-color: coral;
+display: flex;
+justify-content: space-between;
+}
+
+.header2{
+    border:solid;
+    border-color: crimson;
+}
+
+.header3{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.subheader{
+    border:solid;
+    border-color: cyan;
+
+}
+
+p,h2{
+    text-align: center;
+}
